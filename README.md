@@ -19,8 +19,10 @@
   <a href="https://linkedin.com/in/debasis-panda-07b2912a5"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="https://x.com/@DebasisPan54565"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
   <a href="https://instagram.com/_.debasis._454"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-  <a href="https://www.youtube.com/@debasispanda5029?app=desktop"><img src="https://skillicons.dev/icons?i=youtube" width="45"/></a>
-  <a href="mailto:debasis2122004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <!-- YouTube fixed -->
+  <a href="https://www.youtube.com/@debasispanda5029?app=desktop"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+  <!-- Gmail fixed -->
+  <a href="mailto:debasis2122004@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -31,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,fastapi,vite" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,postgres,vercel,render,bun" /><br/>
   <img src="https://skillicons.dev/icons?i=pandas,numpy,anaconda" /><br/>
-  <img src="https://skillicons.dev/icons?i=figma,canva,adobe" />
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
 </p>
 
 ---
@@ -56,5 +58,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=guddu-debasis&icon=0&color=6" />
+  <img src="https://visitcount.itsvg.in/api?id=guddu-debasis&icon=5&color=12" />
 </p>
