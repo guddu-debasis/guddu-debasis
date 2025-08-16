@@ -1,16 +1,6 @@
-<!-- Header -->
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Debasis Panda</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;AI+%26+Data+Science+Explorer+📊;Tech+Content+Creator+🎥;Always+Learning+🚀" alt="Typing SVG" />
-</p>
-
----
-
-## 🧑‍💻 About Me  
-- 🌱 Learning **AI, React Native & FastAPI**  
-- 💡 Passionate about **building apps & problem-solving**  
-- 🎥 Creating tech videos on **[YouTube](https://www.youtube.com/@debasispanda5029?app=desktop)**  
-- ⚡ Fun fact: I love debugging with **coffee ☕ + music 🎧**  
+<h3 align="center">🚀 Passionate Developer | Open Source Contributor | Tech Enthusiast</h3>
 
 ---
 
@@ -19,44 +9,57 @@
   <a href="https://linkedin.com/in/debasis-panda-07b2912a5"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="https://x.com/@DebasisPan54565"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
   <a href="https://instagram.com/_.debasis._454"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-  <!-- YouTube fixed -->
-  <a href="https://www.youtube.com/@debasispanda5029?app=desktop"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-  <!-- Gmail fixed -->
+  <a href="https://www.youtube.com/@debasispanda5029?app=desktop"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="mailto:debasis2122004@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 💻 Tech Stack  
+# 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,r,ts,js" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,fastapi,vite" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,postgres,vercel,render,bun" /><br/>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,anaconda" /><br/>
-  <img src="https://skillicons.dev/icons?i=figma,canva" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,typescript,javascript,html,css,r" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,tailwind,vite,fastapi,bun,vercel,render" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,postgres,anaconda,figma,canva,ai,ps" /><br/>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+# 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guddu-debasis&theme=tokyonight&show_icons=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=guddu-debasis&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=guddu-debasis&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=guddu-debasis&theme=dark&hide_border=false" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guddu-debasis&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guddu-debasis&theme=radical&no-frame=true&margin-w=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guddu-debasis&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </p>
 
 ---
 
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=guddu-debasis&icon=5&color=12" />
+  <img src="https://github-profile-trophy.vercel.app/?username=guddu-debasis&theme=radical&no-frame=false&no-bg=true&margin-w=8"/>
 </p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=guddu-debasis&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=guddu-debasis&icon=0&color=0" />
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
