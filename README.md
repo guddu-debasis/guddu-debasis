@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/debasis-panda-07b2912a5"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="https://x.com/@DebasisPan54565"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
   <a href="https://instagram.com/_.debasis._454"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-  <a href="https://www.youtube.com/@debasispanda5029?app=desktop"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://youtube.com/@griffionci?si=35xR5rAJv8FNxa9l"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="mailto:debasis2122004@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
