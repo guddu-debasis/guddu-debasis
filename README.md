@@ -21,9 +21,8 @@
 
 ```yaml
 role: AI Agent Engineer (in progress) | Backend Developer
-current: 3rd-year BTech CS student, 9.16 CGPA
+current: BTech CS student, 9.12 CGPA
 experience: IBM Internship — AI Agent Architect track
-mission: Landing a remote AI agent engineering role at a foreign startup
 building: Voice-enabled customer support & sales AI agent
 sidequest: Running AI/tech newsletters on Beehiiv
 ```
