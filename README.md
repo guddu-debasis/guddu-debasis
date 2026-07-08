@@ -51,35 +51,69 @@ sidequest: Running AI/tech newsletters on Beehiiv
 
 ### 🌟 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/guddu-debasis/URL-SHORTEN">
-    <img src="https://raw.githubusercontent.com/guddu-debasis/guddu-debasis/main/assets/pin-url-shorten.svg" />
-  </a>
-  <a href="https://github.com/guddu-debasis/paste_bin">
-    <img src="https://raw.githubusercontent.com/guddu-debasis/guddu-debasis/main/assets/pin-paste-bin.svg" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/guddu-debasis/customer_support_agent">
-    <img src="https://raw.githubusercontent.com/guddu-debasis/guddu-debasis/main/assets/pin-customer-support-agent.svg" />
-  </a>
-  <a href="https://github.com/guddu-debasis/Hiring_portal">
-    <img src="https://raw.githubusercontent.com/guddu-debasis/guddu-debasis/main/assets/pin-hiring-portal.svg" />
-  </a>
-</p>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**🔗 [URL Shortener](https://github.com/guddu-debasis/URL-SHORTEN)**
+
+Fully containerized URL shortener with a complete DevOps stack — Docker, 5-manifest Kubernetes deployment, GitHub Actions CI/CD to Docker Hub, Prometheus custom metrics, Nginx reverse proxy.
+
+`Docker` `Kubernetes` `Prometheus` `Nginx` `CI/CD`
+
+</td>
+<td width="50%" valign="top">
+
+**📋 [Pastebin Clone](https://github.com/guddu-debasis/paste_bin)**
+
+Full-stack Pastebin clone — Node.js/Express + MongoDB Atlas backend, React/Vite frontend, deployed on Render + Netlify.
+
+`Node.js` `Express` `MongoDB` `React` `Vite`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 [Customer Support AI Agent](https://github.com/guddu-debasis/customer_support_agent)**
+
+Voice-enabled customer support & sales lead-gen agent — LangChain + Groq + FastAPI + FAISS, with Whisper & gTTS voice I/O.
+
+`LangChain` `Groq` `FastAPI` `FAISS` `Whisper`
+
+</td>
+<td width="50%" valign="top">
+
+**💼 [Hiring Portal](https://github.com/guddu-debasis/Hiring_portal)**
+
+A hiring/recruitment platform project — see the repo for details.
+
+`Full-Stack`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://img.shields.io/github/followers/guddu-debasis?style=for-the-badge&color=00F7FF&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1a1a2e&color=7C3AED&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/guddu-debasis" />
+</p>
+
+> 💡 The old stats/streak/top-langs cards below depend on the public github-readme-stats service, which is currently paused by its own maintainers. Once you self-host your own instance (steps below), swap the commented block back in — it'll work exactly the same.
+
+<!--
+<p align="center">
   <img height="165" src="https://raw.githubusercontent.com/guddu-debasis/guddu-debasis/main/assets/stats.svg" />
   <img height="165" src="https://raw.githubusercontent.com/guddu-debasis/guddu-debasis/main/assets/streak.svg" />
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/guddu-debasis/guddu-debasis/main/assets/top-langs.svg" />
 </p>
+-->
 
 ---
 
