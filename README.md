@@ -36,59 +36,96 @@ sidequest: Running AI/tech newsletters on Beehiiv
   <img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,nodejs,express,react,tailwind,docker,kubernetes,mongodb,git,github,linux,vscode&perline=8" />
 </p>
 
-<div align="center">
+<p align="center"><b>🤖 AI / Agents</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/gTTS-34A853?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
 
-| AI / Agents | Backend | DevOps | Frontend |
-|:---:|:---:|:---:|:---:|
-| LangChain (1.0+ middleware) | FastAPI | Docker | React |
-| Groq | Node.js / Express | Kubernetes | TypeScript |
-| FAISS (vector store) | REST APIs | GitHub Actions CI/CD | Tailwind CSS |
-| Whisper + gTTS (voice I/O) | MongoDB Atlas | Prometheus + Nginx | Framer Motion |
+<p align="center"><b>🛠️ Backend</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-</div>
+<p align="center"><b>🐳 DevOps</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
+
+<p align="center"><b>🎨 Frontend</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
 
 ---
 
 ### 🌟 Featured Projects
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
+<h4>🔗 URL Shortener</h4>
 
-**🔗 [URL Shortener](https://github.com/guddu-debasis/URL-SHORTEN)**
+Fully containerized URL shortener with a complete DevOps stack — Docker, 5-manifest Kubernetes deployment, GitHub Actions CI/CD to Docker Hub, Prometheus custom metrics, and Nginx as reverse proxy.
 
-Fully containerized URL shortener with a complete DevOps stack — Docker, 5-manifest Kubernetes deployment, GitHub Actions CI/CD to Docker Hub, Prometheus custom metrics, Nginx reverse proxy.
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
 
-`Docker` `Kubernetes` `Prometheus` `Nginx` `CI/CD`
+<a href="https://github.com/guddu-debasis/URL-SHORTEN"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
+<h4>📋 Pastebin Clone</h4>
 
-**📋 [Pastebin Clone](https://github.com/guddu-debasis/paste_bin)**
+Full-stack Pastebin clone with Node.js/Express + MongoDB Atlas on the backend and React/Vite on the frontend, deployed on Render + Netlify.
 
-Full-stack Pastebin clone — Node.js/Express + MongoDB Atlas backend, React/Vite frontend, deployed on Render + Netlify.
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 
-`Node.js` `Express` `MongoDB` `React` `Vite`
+<a href="https://github.com/guddu-debasis/paste_bin"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<h4>🤖 Customer Support AI Agent</h4>
 
-**🤖 [Customer Support AI Agent](https://github.com/guddu-debasis/customer_support_agent)**
+Voice-enabled customer support & sales lead-generation agent built with LangChain + Groq + FastAPI + FAISS, with voice I/O powered by Whisper and gTTS.
 
-Voice-enabled customer support & sales lead-gen agent — LangChain + Groq + FastAPI + FAISS, with Whisper & gTTS voice I/O.
+<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/-Groq-F55036?style=flat-square&logo=groq&logoColor=white" />
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/-FAISS-4285F4?style=flat-square&logo=meta&logoColor=white" />
 
-`LangChain` `Groq` `FastAPI` `FAISS` `Whisper`
+<a href="https://github.com/guddu-debasis/customer_support_agent"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
+<h4>💼 Hiring Portal</h4>
 
-**💼 [Hiring Portal](https://github.com/guddu-debasis/Hiring_portal)**
+A hiring/recruitment platform project — full details in the repo.
 
-A hiring/recruitment platform project — see the repo for details.
+<img src="https://img.shields.io/badge/-Full%20Stack-6E40C9?style=flat-square&logo=github&logoColor=white" />
 
-`Full-Stack`
+<a href="https://github.com/guddu-debasis/Hiring_portal"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
