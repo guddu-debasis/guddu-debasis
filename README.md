@@ -21,7 +21,7 @@
 
 ```yaml
 role: AI Agent Engineer (in progress) | Backend Developer
-current: 4th-year BTech CS student, 9.12 CGPA
+current: 3rd-year BTech CS student, 9.16 CGPA
 experience: IBM Internship — AI Agent Architect track
 mission: Landing a remote AI agent engineering role at a foreign startup
 building: Voice-enabled customer support & sales AI agent
@@ -53,18 +53,18 @@ sidequest: Running AI/tech newsletters on Beehiiv
 
 <p align="center">
   <a href="https://github.com/guddu-debasis/URL-SHORTEN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guddu-debasis&repo=URL-SHORTEN&theme=tokyonight&hide_border=true" />
+    <img src="https://raw.githubusercontent.com/guddu-debasis/guddu-debasis/main/assets/pin-url-shorten.svg" />
   </a>
   <a href="https://github.com/guddu-debasis/paste_bin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guddu-debasis&repo=paste_bin&theme=tokyonight&hide_border=true" />
+    <img src="https://raw.githubusercontent.com/guddu-debasis/guddu-debasis/main/assets/pin-paste-bin.svg" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/guddu-debasis/customer_support_agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guddu-debasis&repo=customer_support_agent&theme=tokyonight&hide_border=true" />
+    <img src="https://raw.githubusercontent.com/guddu-debasis/guddu-debasis/main/assets/pin-customer-support-agent.svg" />
   </a>
   <a href="https://github.com/guddu-debasis/Hiring_portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guddu-debasis&repo=Hiring_portal&theme=tokyonight&hide_border=true" />
+    <img src="https://raw.githubusercontent.com/guddu-debasis/guddu-debasis/main/assets/pin-hiring-portal.svg" />
   </a>
 </p>
 
@@ -73,12 +73,12 @@ sidequest: Running AI/tech newsletters on Beehiiv
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guddu-debasis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=guddu-debasis&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://raw.githubusercontent.com/guddu-debasis/guddu-debasis/main/assets/stats.svg" />
+  <img height="165" src="https://raw.githubusercontent.com/guddu-debasis/guddu-debasis/main/assets/streak.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guddu-debasis&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/guddu-debasis/guddu-debasis/main/assets/top-langs.svg" />
 </p>
 
 ---
