@@ -1,59 +1,49 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Debasis Panda</h1>
-<h3 align="center">🚀 Passionate Developer | Open Source Contributor | Tech Enthusiast</h3>
+<h1 align="center">Hi, I'm Debasis 👋</h1>
+<h3 align="center">AI Agent Engineer • Backend Developer • Building Autonomous Systems</h3>
 
----
+### 🚀 About Me
+- 🎓 3rd-year BTech CS student, currently gunning for campus placements & remote roles at foreign startups
+- 🤖 Specializing in **AI agent engineering** — LangChain, RAG pipelines, voice-enabled agents
+- 🛠️ Ex-Intern @ IBM — AI Agent Architect track
+- 📰 Run AI/tech newsletters on Beehiiv, breaking down what matters in AI for thousands of readers
+- ⚡ I don't just deploy code, I deploy it with Docker, Kubernetes, CI/CD, and Prometheus watching every metric
 
-## 🌐 Connect with Me  
+### 🧰 Tech Stack
+
+**Languages:** Python • JavaScript/TypeScript • 
+
+**AI / Agents:** LangChain (1.0+ middleware) • Groq • FAISS • Whisper • gTTS • RAG
+
+**Backend:** FastAPI • Node.js • Express • REST APIs
+
+**Frontend:** React • Tailwind CSS • Framer Motion • Vite
+
+**Databases:** MongoDB Atlas • FAISS (vector store)
+
+**DevOps:** Docker • Kubernetes • GitHub Actions (CI/CD) • Prometheus • Nginx
+
+**Deploy:** Render • Netlify • Docker Hub
+
+### 🎯 Current Focus
+- Building a full-stack **customer support & sales lead generation AI agent** — LangChain + Groq + FastAPI + FAISS, with voice interface via Whisper & gTTS
+- Exploring LangChain middleware patterns: PII redaction, human-in-the-loop checkpointing
+- Actively applying for AI agent engineering roles, remote-first
+
+### 🏗️ Featured Projects
+- **[URL Shortener](https://github.com/guddu-debasis)** — Fully containerized with Docker, 5-manifest Kubernetes deployment, GitHub Actions CI/CD to Docker Hub, Prometheus custom metrics, Nginx reverse proxy
+- **Pastebin Clone** — Node.js/Express + MongoDB Atlas backend, React/Vite frontend, deployed on Render + Netlify
+- **Portfolio Site** — React 18, TypeScript, Tailwind, Framer Motion animations
+- **AI Customer Support Agent** *(in progress)* — LangChain + Groq + FastAPI + FAISS with voice I/O
+
+### 📊 GitHub Stats
 <p align="center">
-  <a href="https://linkedin.com/in/debasis-panda-07b2912a5"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="https://x.com/@DebasisPan54565"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
-  <a href="https://instagram.com/_.debasis._454"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-  <a href="https://youtube.com/@griffionci?si=35xR5rAJv8FNxa9l"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="mailto:debasis2122004@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guddu-debasis&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=guddu-debasis&theme=tokyonight" />
 </p>
 
----
+### 🌐 Connect
+- 🐳 Docker Hub: [guddudebasis](https://hub.docker.com/u/guddudebasis)
+- 💼 LinkedIn: *add your link here*
+- 📧 Email: *add your email here*
 
-# 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,typescript,javascript,html,css,r" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,tailwind,vite,fastapi,bun,vercel,render" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,postgres,anaconda,figma,canva,ai,ps" /><br/>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
-</p>
-
----
-
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guddu-debasis&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=guddu-debasis&theme=dark&hide_border=false" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guddu-debasis&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guddu-debasis&theme=radical&no-frame=false&no-bg=true&margin-w=8"/>
-</p>
-
----
-
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=guddu-debasis&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=guddu-debasis&icon=0&color=0" />
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"><i>Build. Deploy. Scale. Repeat.</i></p>
