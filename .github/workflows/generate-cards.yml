@@ -1,1 +1,57 @@
+name: Generate Profile Cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # runs once a day
+  workflow_dispatch:       # lets you trigger it manually anytime
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Make assets folder
+        run: mkdir -p assets
+
+      - name: Fetch GitHub stats card
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=guddu-debasis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" -o assets/stats.svg
+
+      - name: Fetch streak card
+        run: |
+          curl -s "https://github-readme-streak-stats.herokuapp.com/?user=guddu-debasis&theme=tokyonight&hide_border=true" -o assets/streak.svg
+
+      - name: Fetch top languages card
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=guddu-debasis&layout=compact&theme=tokyonight&hide_border=true" -o assets/top-langs.svg
+
+      - name: Fetch project pin cards
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api/pin/?username=guddu-debasis&repo=URL-SHORTEN&theme=tokyonight&hide_border=true" -o assets/pin-url-shorten.svg
+          curl -s "https://github-readme-stats.vercel.app/api/pin/?username=guddu-debasis&repo=paste_bin&theme=tokyonight&hide_border=true" -o assets/pin-paste-bin.svg
+          curl -s "https://github-readme-stats.vercel.app/api/pin/?username=guddu-debasis&repo=customer_support_agent&theme=tokyonight&hide_border=true" -o assets/pin-customer-support-agent.svg
+          curl -s "https://github-readme-stats.vercel.app/api/pin/?username=guddu-debasis&repo=Hiring_portal&theme=tokyonight&hide_border=true" -o assets/pin-hiring-portal.svg
+
+      - name: Check files aren't empty/error responses
+        run: |
+          for f in assets/*.svg; do
+            if [ ! -s "$f" ] || grep -qi "error" "$f"; then
+              echo "Warning: $f looks empty or errored, keeping previous committed version."
+              git checkout -- "$f" 2>/dev/null || true
+            fi
+          done
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update profile cards" && git push)
 
