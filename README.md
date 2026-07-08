@@ -21,8 +21,9 @@
 
 ```yaml
 role: AI Agent Engineer (in progress) | Backend Developer
-current: BTech CS student, 9.12 CGPA
+current: 3rd-year BTech CS student, 9.16 CGPA
 experience: IBM Internship — AI Agent Architect track
+mission: Landing a remote AI agent engineering role at a foreign startup
 building: Voice-enabled customer support & sales AI agent
 sidequest: Running AI/tech newsletters on Beehiiv
 ```
@@ -30,10 +31,6 @@ sidequest: Running AI/tech newsletters on Beehiiv
 ---
 
 ### ⚙️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,nodejs,express,react,tailwind,docker,kubernetes,mongodb,git,github,linux,vscode&perline=8" />
-</p>
 
 <p align="center"><b>🤖 AI / Agents</b></p>
 <p align="center">
@@ -50,7 +47,15 @@ sidequest: Running AI/tech newsletters on Beehiiv
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p align="center"><b>🗄️ Database</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS%20Vector%20Store-4285F4?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
 
 <p align="center"><b>🐳 DevOps</b></p>
