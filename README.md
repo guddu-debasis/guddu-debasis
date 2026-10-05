@@ -81,54 +81,66 @@ sidequest: Running AI/tech newsletters on Beehiiv
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
-<h4>🔗 URL Shortener</h4>
 
-Fully containerized URL shortener with a complete DevOps stack — Docker, 5-manifest Kubernetes deployment, GitHub Actions CI/CD to Docker Hub, Prometheus custom metrics, and Nginx as reverse proxy.
+<h4>🏡 Hearth - HomeCare Enterprise Platform</h4>
+Multi-vendor home services marketplace - single checkout across multiple sellers. Redis high-concurrency cart, Razorpay payments, <b>AWS SQS worker for async PDF invoices</b>, hallucination-proof AI search via Groq + LangChain.
 
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js_v20-68a063?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React_v19-61dafb?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-Drizzle_ORM-4169e1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Upstash_Redis-00e9a3?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_SQS-ff9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Razorpay-0c2340?style=flat-square&logo=razorpay&logoColor=white" />
 
-<a href="https://github.com/guddu-debasis/URL-SHORTEN"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br><br>
+<a href="https://github.com/guddu-debasis/HomeCare"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
-<h4>📋 Pastebin Clone</h4>
 
-Full-stack Pastebin clone with Node.js/Express + MongoDB Atlas on the backend and React/Vite on the frontend, deployed on Render + Netlify.
+<h4>⚡ Short.ly - URL Shortener + Observability</h4>
+Full-stack shortener with custom aliases, expiry, QR codes, click analytics (device/browser/IP). Complete observability: <b>Prometheus custom metrics + Grafana + Loki + Promtail</b>, Nginx reverse proxy, single `docker-compose up`.
 
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
 
-<a href="https://github.com/guddu-debasis/paste_bin"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br><br>
+<a href="https://github.com/guddu-debasis/URL-SHORTEN"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4>🤖 Customer Support AI Agent</h4>
 
-Voice-enabled customer support & sales lead-generation agent built with LangChain + Groq + FastAPI + FAISS, with voice I/O powered by Whisper and gTTS.
+<h4>🌐 Multilingual RAG - Cross-Lingual Engine</h4>
+Ask in <b>Hindi / Hinglish</b>, retrieve from English PDFs - no translation step. <b>BGE-M3 (1024-D) + FAISS + Groq Llama 3.3 70B</b>. Uses ONNX via @xenova/transformers for local embeddings, cosine similarity search.
 
-<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/-Groq-F55036?style=flat-square&logo=groq&logoColor=white" />
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/-FAISS-4285F4?style=flat-square&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/BGE--M3_Multilingual-4285F4?style=flat-square" />
+<img src="https://img.shields.io/badge/FAISS-00599C?style=flat-square&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq_Llama3.3_70B-F55036?style=flat-square&logo=groq&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
 
-<a href="https://github.com/guddu-debasis/customer_support_agent"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br><br>
+<a href="https://github.com/guddu-debasis/multiLingual-RAG"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
-<h4>💼 Hiring Portal</h4>
 
-A hiring/recruitment platform project — full details in the repo.
+<h4>🧠 NeuralNexus - AI Hiring Automation</h4>
+Full-stack AI hiring: Candidates upload PDF resume → <b>PyMuPDF + Groq Llama 3.3 scores 0-100%</b> → Cloudinary storage. Recruiters see AI-ranked shortlist, Hire/Pass in 1 click. React 19 + FastAPI + TiDB/MySQL + JWT.
 
-<img src="https://img.shields.io/badge/-Full%20Stack-6E40C9?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/React_19-61dafb?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logo=groq&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" />
 
-<a href="https://github.com/guddu-debasis/Hiring_portal"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br><br>
+<a href="https://github.com/guddu-debasis/Hiring_portal"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
