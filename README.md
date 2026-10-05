@@ -20,7 +20,7 @@
 ### 🧠 About Me
 
 ```yaml
-role: AI Agent Engineer (in progress) | Backend Developer
+role: AI Agent Engineer | Backend Developer
 current: 4th-year BTech CS student, 9.12 CGPA
 experience: IBM Internship — AI Agent Architect track
 building: Voice-enabled customer support & sales AI agent
