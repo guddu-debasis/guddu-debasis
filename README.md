@@ -22,8 +22,8 @@
 ```yaml
 role: Generative AI Engineer | Backend Developer
 current: 4th-year BTech CS student, 9.12 CGPA
-experience: IBM Internship — AI Agent Architect track
-building: Voice-enabled customer support & sales AI agent
+experience: IBM Internship — AI Agent Architect track | Ex-Opensource Contributor at QuiraSH
+building: Scalable GEN AI & Backend Projects
 sidequest: Running AI/tech newsletters on Beehiiv
 ```
 
